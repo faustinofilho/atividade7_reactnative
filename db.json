@@ -1,0 +1,88 @@
+{
+  "propriedades": [
+    {
+      "id": 1,
+      "produtor": "Albertowww",
+      "declarada": "290",
+      "vistoriada": "100"
+    },
+    {
+      "produtor": "sss",
+      "declarada": "55",
+      "vistoriada": "222",
+      "id": 2
+    },
+    {
+      "produtor": "Maria das dores",
+      "declarada": "55",
+      "vistoriada": "222",
+      "id": 3
+    },
+    {
+      "produtor": "Useless Text",
+      "declarada": "",
+      "vistoriada": "",
+      "id": 4
+    },
+    {
+      "produtor": "Glogo",
+      "declarada": "25",
+      "vistoriada": "144",
+      "id": 5
+    },
+    {
+      "produtor": "Glogo",
+      "declarada": "25",
+      "vistoriada": "144",
+      "id": 6
+    },
+    {
+      "produtor": "Glogo",
+      "declarada": "25",
+      "vistoriada": "144",
+      "id": 7
+    },
+    {
+      "produtor": "Fulano de tal ",
+      "declarada": "939999938",
+      "vistoriada": "3333",
+      "id": 8
+    },
+    {
+      "produtor": "ss",
+      "declarada": "",
+      "vistoriada": "",
+      "id": 9
+    },
+    {
+      "produtor": "PRodutor ",
+      "declarada": "099",
+      "vistoriada": "444",
+      "id": 10
+    },
+    {
+      "produtor": "Faustino tavares de Santana Filho",
+      "declarada": "444",
+      "vistoriada": "1111",
+      "id": 11
+    },
+    {
+      "produtor": "felis natal",
+      "declarada": "100",
+      "vistoriada": "388",
+      "id": 12
+    },
+    {
+      "produtor": "ESmailton",
+      "declarada": "2222",
+      "vistoriada": "2222",
+      "id": 13
+    },
+    {
+      "produtor": "Genival",
+      "declarada": "199",
+      "vistoriada": "222",
+      "id": 14
+    }
+  ]
+}
